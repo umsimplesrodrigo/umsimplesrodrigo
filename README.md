@@ -1,4 +1,4 @@
-### Olá, eu sou umsimplesrodrigo 🗿🍷
+### <img src="macaco-cirugiao-umsimples.png" width="40px"> Olá, eu sou umsimplesrodrigo 
 
 - 👨‍💻 Cursando desenvolvimento de sistemas - SENAI
 <div>
